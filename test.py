@@ -3,7 +3,7 @@ import subprocess
 import re
 import sys
 
-escape_chars = ['[2J', '[?25l', '[2J', '[J', chr(27), '[0m', '[1;1H']
+escape_chars = ['[2J', '[?25l', '[2J', '[J', chr(27), '[0m', '[1', ';1H']
 aircrack_installed = spawn.find_executable('airodump-ng') is not None
 if aircrack_installed:
     airodump = subprocess.Popen(
@@ -43,5 +43,8 @@ while True:
             '+-(?P<power>[0-9]+)',
             stripped
         )
+
+        if not data:
+            print(stripped)
 
         print(data)
