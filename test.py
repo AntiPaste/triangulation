@@ -1,11 +1,22 @@
 from distutils import spawn
 import subprocess
+import argparse
 import re
-import sys
+
+parser = argparse.ArgumentParser()
+parser.add_argument(
+    '--no-aircrack',
+    help='force no aircrack',
+    dest='disable_aircrack',
+    action='store_true'
+)
+
+parser.set_defaults(disable_aircrack=False)
+args = parser.parse_args()
 
 escape_chars = ['[2J', '[?25l', '[2J', '[J', chr(27), '[0m', '[1', ';1H']
 aircrack_installed = spawn.find_executable('airodump-ng') is not None
-if aircrack_installed:
+if aircrack_installed and not args.disable_aircrack:
     airodump = subprocess.Popen(
         [
             'airodump-ng', 'wlan1mon',
