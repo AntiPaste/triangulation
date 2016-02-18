@@ -1,0 +1,838 @@
+[0m[2J[?25l[2J
+[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43   0        2        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43   0        3        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43   0        4        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43   0        4        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43   0        5        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43   0        6        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43   0        7        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43   0        8        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43   0        9        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -42   0       10        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -42   0       11        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -42   0       12        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -42   0       13        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -42   0       14        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44   0       15        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44   0       16        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44   0       17        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44   0       18        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43   0       19        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       20        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -42  92       21        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -42  92       22        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       23        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       24        0    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       25        1    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -42    0 - 0e     0        1
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       26        3    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -42    0e- 0e     0        3
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       27        3    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -42    0e- 0e     0        3
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       28        3    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -42    0e- 0e     0        3
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       29        3    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -42    0e- 0e     0        3
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       30        3    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -42    0e- 0e     0        3
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       31        3    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -42    0e- 0e     0        3
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       32        3    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -42    0e- 0e     0        3
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       33        3    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -42    0e- 0e     0        3
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       34        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       35        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       36        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       37        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       38        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       39        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       40        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       41        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       42        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       43        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  92       44        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       45        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44 100       46        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44 100       47        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       48        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       49        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44 100       50        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       51        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       52        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 0 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44 100       53        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44 100       54        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44 100       55        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44 100       56        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44 100       57        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44 100       58        6    2  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       59        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       60        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       61        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       62        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       63        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       64        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       65        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       66        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       67        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       68        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       69        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       70        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43 100       71        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:25
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44 100       72        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:26
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44 100       73        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:26
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44  90       74        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:26
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44  90       75        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:26
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  90       76        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:26
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  90       77        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:26
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  90       78        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:26
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  90       79        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:26
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  90       80        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:26
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  90       81        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:26
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  90       82        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1
+;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:26
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -43  90       83        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:26
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44  90       84        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:26
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -44  90       85        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
+[J[1;1H
+CH 13 ][ Elapsed: 6 s ][ 2016-02-18 18:26
+
+BSSID              PWR RXQ  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+
+D8:84:66:42:BC:58  -45  90       86        6    0  13  54e  WPA2 CCMP   PSK  TaitoUnited
+
+BSSID              STATION            PWR   Rate    Lost    Frames  Probe
+
+D8:84:66:42:BC:58  AC:BC:32:8A:96:7B  -44    0e- 0e     0        6
