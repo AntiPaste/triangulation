@@ -1,4 +1,5 @@
 from triangulation import Connection
+from triangulation import Triangulator
 from socket import gethostbyname, gethostname
 import threading
 import logging
@@ -7,6 +8,8 @@ import logging
 class Master:
     service_address = None
     service_port = 6969
+    data = dict()
+    triangulator = Triangulator()
 
     def __init__(self, queue):
         self.queue = queue
@@ -39,6 +42,15 @@ class Master:
         logging.info('Ready for processing')
 
         while True:
-            data = self.queue.get()
-            # Do something interesting with the data!
-            print(data)
+            datapoint = self.queue.get()
+            if not datapoint.client in self.data:
+                self.data[datapoint.client] = {}
+            self.data[datapoint.client][str(datapoint.location)] = (
+                datapoint.location,
+                datapoint.power
+            )
+            clients = self.triangulator.locatable_clients(self.data)
+            for c in clients:
+                print(str(self.triangulator.locate_client(c)))
+            #print(data)
+
