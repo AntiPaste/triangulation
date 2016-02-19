@@ -50,7 +50,7 @@ class Slave:
 
             # Capture interesting data
             data = re.findall(
-                r'^(?P<station>[0-9A-F:]+)[ ]+'
+                r'^(?P<station>[0-9A-F:]+|\(not associated\))[ ]+'
                 '(?P<client>[0-9A-F:]+)[ ]+'
                 '-(?P<power>[0-9]+)',
                 stripped
@@ -62,6 +62,9 @@ class Slave:
             data = data[0]
             if not data:
                 continue
+
+            if data[0] == '(not associated)':
+                data[0] = None
 
             return DataPoint(self.location, data[0], data[1], data[2])
 
