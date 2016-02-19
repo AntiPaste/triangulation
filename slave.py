@@ -39,10 +39,10 @@ class Slave:
             if not output:
                 continue
 
-            stripped = output.strip()
+            stripped = str(output.strip())
 
             # Remove escape sequences
-            ansi_escape = re.compile(b'\x1b[^m]*m')
+            ansi_escape = re.compile(r'\x1b[^m]*m')
             stripped = ansi_escape.sub('', stripped)
 
             # Capture interesting data
