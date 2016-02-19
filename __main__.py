@@ -74,10 +74,10 @@ if aircrack_installed and not args.disable_aircrack:
     arguments = ['airodump-ng', args.interface]
 
     if args.bssid:
-        arguments.append('--bssid', args.bssid)
+        arguments += ['--bssid', args.bssid]
 
     if args.channel:
-        arguments.append('--channel', args.channel)
+        arguments += ['--channel', args.channel]
 
     airodump = subprocess.Popen(arguments, stderr=subprocess.PIPE)
 
