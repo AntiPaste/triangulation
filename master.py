@@ -51,6 +51,6 @@ class Master:
             )
             clients = self.triangulator.locatable_clients(self.data)
             for c in clients:
-                print(str(self.triangulator.locate_client(c)))
+                print(c, str(self.triangulator.locate_client(c)))
             #print(data)
 

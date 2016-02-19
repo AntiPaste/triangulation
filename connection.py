@@ -22,7 +22,7 @@ class Connection:
             self.data_magic,
             str(datapoint.location.x),
             str(datapoint.location.y),
-            datapoint.station,
+            str(datapoint.station),
             datapoint.client,
             datapoint.power
         )).encode('utf-8')  # convert string to bytes
