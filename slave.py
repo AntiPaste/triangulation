@@ -63,10 +63,11 @@ class Slave:
             if not data:
                 continue
 
-            if data[0] == '(not associated)':
-                data[0] = None
+            bssid = data[0]
+            if bssid == '(not associated)':
+                bssid = None
 
-            return DataPoint(self.location, data[0], data[1], data[2])
+            return DataPoint(self.location, bssid, data[1], data[2])
 
     def send(self, datapoint):
         self.master.send(datapoint)
