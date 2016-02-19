@@ -39,6 +39,9 @@ class Slave:
             if not output:
                 continue
 
+            if type(output) == bytes:
+                output = output.decode('utf-8')
+
             stripped = output.strip()
 
             # Remove escape sequences
@@ -47,7 +50,7 @@ class Slave:
 
             # Capture interesting data
             data = re.findall(
-                r'^(?P<station>[0-9A-F:]+)[ ]+'
+                r'^(?P<station>[0-9A-F:]+|\(not associated\))[ ]+'
                 '(?P<client>[0-9A-F:]+)[ ]+'
                 '-(?P<power>[0-9]+)',
                 stripped
@@ -60,7 +63,11 @@ class Slave:
             if not data:
                 continue
 
-            return DataPoint(self.location, data[0], data[1], data[2])
+            bssid = data[0]
+            if bssid == '(not associated)':
+                bssid = None
+
+            return DataPoint(self.location, bssid, data[1], data[2])
 
     def send(self, datapoint):
         self.master.send(datapoint)
