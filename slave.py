@@ -39,7 +39,10 @@ class Slave:
             if not output:
                 continue
 
-            stripped = str(output.strip())
+            if type(output) == bytes:
+                output = output.decode('utf-8')
+
+            stripped = output.strip()
 
             # Remove escape sequences
             ansi_escape = re.compile(r'\x1b[^m]*m')
