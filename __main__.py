@@ -64,35 +64,35 @@ type_group.add_argument(
 parser.set_defaults(disable_aircrack=False)
 args = parser.parse_args()
 
-# Check if aircrack is installed
-aircrack_installed = spawn.find_executable('airodump-ng') is not None
-if aircrack_installed and not args.disable_aircrack:
-    if not args.interface:
-        raise RuntimeError('Missing interface flag for aircrack')
-
-    # Open up a handle to the process
-    arguments = ['airodump-ng', args.interface]
-
-    if args.bssid:
-        arguments += ['--bssid', args.bssid]
-
-    if args.channel:
-        arguments += ['--channel', args.channel]
-
-    airodump = subprocess.Popen(arguments, stderr=subprocess.PIPE)
-
-    # Read it boy, read it
-    source = airodump.stderr
-else:
-    # If we have no aircrack or were forced to, use sample data
-    source = open(os.path.join(path, 'data.txt'), 'r')
-
 data_queue = Queue()
 
 if args.master:
     logging.info('Starting application as master...')
     app = Master(data_queue)
 else:
+    # Check if aircrack is installed
+    aircrack_installed = spawn.find_executable('airodump-ng') is not None
+    if aircrack_installed and not args.disable_aircrack:
+        if not args.interface:
+            raise RuntimeError('Missing interface flag for aircrack')
+
+        # Open up a handle to the process
+        arguments = ['airodump-ng', args.interface]
+
+        if args.bssid:
+            arguments += ['--bssid', args.bssid]
+
+        if args.channel:
+            arguments += ['--channel', args.channel]
+
+        airodump = subprocess.Popen(arguments, stderr=subprocess.PIPE)
+
+        # Read it boy, read it
+        source = airodump.stderr
+    else:
+        # If we have no aircrack or were forced to, use sample data
+        source = open(os.path.join(path, 'data.txt'), 'r')
+
     logging.info('Starting application as slave...')
 
     coordinates = args.location.split(',')
