@@ -59,10 +59,16 @@ class Master:
                 datapoint.power
             )
 
+            output = []
             clients = self.triangulator.locatable_clients(self.data)
             for key, client in clients.items():
                 coordinates = self.triangulator.locate_client(client)
-                print('Client: {0}, location: {1}'.format(
+                output.append('Client: {0}, location: {1}'.format(
                     datapoint.client,
                     str(coordinates)
                 ))
+
+            output.sort()
+            print("\x1b[2J\x1b[H")
+            for line in output:
+                print(line)
