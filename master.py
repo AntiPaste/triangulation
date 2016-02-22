@@ -60,5 +60,9 @@ class Master:
             )
 
             clients = self.triangulator.locatable_clients(self.data)
-            for key in clients:
-                print(clients[key], str(self.triangulator.locate_client(clients[key])))
+            for key, client in clients.iteritems():
+                coordinates = self.triangulator.locate_client(client)
+                print('Client: {0}, location: {1}'.format(
+                    datapoint.client,
+                    str(coordinates)
+                ))
