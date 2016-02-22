@@ -16,7 +16,7 @@ class Triangulator:
 
     def locate_client(self, client):
         # client: { locationN: (Coordinates, power) }
-        locations = client.values()
+        locations = list(client.values())
         locations = (locations[0], locations[1], locations[2])
 
         origin = None
@@ -49,4 +49,4 @@ class Triangulator:
         return math.sqrt(diff_x ** 2 + diff_y ** 2)
 
     def power_to_meters(self, power):
-        return 9 * power
+        return 9 * int(power)
