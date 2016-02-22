@@ -19,6 +19,7 @@ class Master:
         self.service_address = gethostbyname(gethostname())
         self.connection = Connection(self.service_address, self.service_port)
 
+    def start(self):
         # Start up an announcer thread
         self.thread(self.announce)
 
@@ -43,14 +44,15 @@ class Master:
 
         while True:
             datapoint = self.queue.get()
-            if not datapoint.client in self.data:
+            if datapoint.client not in self.data:
                 self.data[datapoint.client] = {}
-            self.data[datapoint.client][str(datapoint.location)] = (
+
+            key = str(datapoint.location)
+            self.data[datapoint.client][key] = (
                 datapoint.location,
                 datapoint.power
             )
-            clients = self.triangulator.locatable_clients(self.data)
-            for c in clients:
-                print(c, str(self.triangulator.locate_client(c)))
-            #print(data)
 
+            clients = self.triangulator.locatable_clients(self.data)
+            for client in clients:
+                print(client, str(self.triangulator.locate_client(client)))

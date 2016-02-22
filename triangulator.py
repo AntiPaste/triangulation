@@ -1,4 +1,5 @@
 from triangulation import Coordinates
+import math
 
 
 class Triangulator:
@@ -10,34 +11,42 @@ class Triangulator:
         for client in data:
             if len(data[client]) == 3:
                 clients[client] = data[client]
+
         return clients
 
     def locate_client(self, client):
-        # client: {location1: (locationCoord, power)}
+        # client: { locationN: (Coordinates, power) }
         locations = client.values()
-        location1 = locations[0][0]
-        location2 = locations[1][0]
-        location3 = locations[2][0]
-        d1 = self.distance(location1, location2)
-        # d2 = self.distance(location2, location3)
-        # d3 = self.distance(location3, location1)
-        r1 = self.power_to_meters(locations[0][1])
-        r2 = self.power_to_meters(locations[1][1])
-        r3 = self.power_to_meters(locations[2][1])
-        #if (r1 + r2 >= d1 and r2 + r3 >= d2 and r3 + r1 >= d3):
-        x = (r1 ** 2 - r2 ** 2 + d1**2) / (2 * d1)
-        y = ((r1 ** 2 - r3 ** 2 + location3.x ** 2 + location3.y ** 2) /
-            (2 * location3.y) - location3.x / location3.y * x)
-        return Coordinates(x, y)
-        # else:
-        #     return self.locate_client({
-        #         str(location1): (location1, 1.1*locations[0][1]),
-        #         str(location2): (location2, 1.1*locations[1][1]),
-        #         str(location3): (location3, 1.1*locations[2][1])
-        #     })
+        locations = (locations[0], locations[1], locations[2])
 
-    def distance(self, coord1, coord2):
-        return ((coord1.x - coord2.x) ** 2 + (coord1.y - coord2.y) ** 2) ** 0.5
+        origin = None
+        axis_point = None
+        third_point = None
+        for location in locations:
+            coordinates = location[0]
+            if coordinates.x == 0 and coordinates.y == 0:
+                origin = location
+            elif coordinates.y == 0:
+                axis_point = location
+            else:
+                third_point = location
+
+        distance = self.distance(origin[0], axis_point[0])
+
+        r1 = self.power_to_meters(origin[1])
+        r2 = self.power_to_meters(axis_point[1])
+        r3 = self.power_to_meters(third_point[1])
+
+        x = (r1 ** 2 - r2 ** 2 + distance**2) / (2 * distance)
+        y = ((r1 ** 2 - r3 ** 2 + third_point[0].x ** 2 + third_point[0].y ** 2) /
+            (2 * third_point[0].y) - third_point[0].x / third_point[0].y * x)
+
+        return Coordinates(x, y)
+
+    def distance(self, point1, point2):
+        diff_x = point1.x - point2.x
+        diff_y = point1.y - point2.y
+        return math.sqrt(diff_x ** 2 + diff_y ** 2)
 
     def power_to_meters(self, power):
-        return 9*power
+        return 9 * power
