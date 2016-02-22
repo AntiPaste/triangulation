@@ -21,17 +21,23 @@ class Master:
 
     def start(self):
         # Start up an announcer thread
-        self.thread(self.announce)
+        announcer = self.thread(self.announce)
 
         # Start up a receiving thread
-        self.thread(self.receive)
+        receiver = self.thread(self.receive)
 
         # Start up a processing thread
-        self.thread(self.process)
+        processer = self.thread(self.process)
+
+        # Wait up
+        announcer.join()
+        receiver.join()
+        processer.join()
 
     def thread(self, function, args=()):
         thread = threading.Thread(target=function, args=args)
         thread.start()
+        return thread
 
     def announce(self):
         self.connection.announce()
